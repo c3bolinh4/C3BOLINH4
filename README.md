@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @C3BOLINH4
 - 👀 estou jogando🎮...
-- ☕ Atualmente estou aprendendo sobre o javax
+- ☕ Atualmente estou aprendendo sobre o java
 - 😎👍 Procuro colaborar e coperar com todos
 -  📫 Como chegar até mim, pelo e-mail fernando.karatchuk@escola.pr.gov.br
 
