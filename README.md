@@ -9,4 +9,4 @@ C3BOLINH4/C3BOLINH4 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![](![image](https://github.com/c3bolinh4/C3BOLINH4/assets/106165647/472b8b90-3d58-4e65-b44b-d099acbc1428)
+![](https://media4.giphy.com/media/h2NxCschQ81ltiL9HV/200w.gif?cid=790b7611vv3ntq094k8c2qr4kzd8j9kfrldzcv3z87rpwycj&ep=v1_gifs_search&rid=200w.gif&ct=g)
