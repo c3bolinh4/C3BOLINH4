@@ -3,7 +3,6 @@
 - ☕ Atualmente estou aprendendo sobre o java
 - 😎👍 Procuro colaborar e coperar com todos
 -  📫 Como chegar até mim, pelo e-mail fernando.karatchuk@escola.pr.gov.br
--  torcedor do colorado, gremio pior do sul, flamengo maior do Brasil, torcedores do sao paulosao o partido perfeito.
 
 <!---
 C3BOLINH4/C3BOLINH4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
